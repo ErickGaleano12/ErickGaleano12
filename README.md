@@ -1,16 +1,20 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+    <h1 align="center">Hola, &#128075; Bienvenido!</h1>
+    <h3 align="center">
+        Soy un apasionado por el código y los nuevos retos, aprendo en mis tiempos
+        libres y disfruto de los desafíos que se me presentan al codificar.
+    </h3>
+</div>
 
-<!--
-**ErickGaleano12/ErickGaleano12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--- 
 
-Here are some ideas to get you started:
+### &#128512; Acerca de mi:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- &#129321;Actualmente estoy en el ultimo trimestre del Sena estudiando Tecnico en programación de software.
+
+- &#128526;Tengo conocimiento en Java, Python, Html, Css, Mysql.
+
+- &#128525;Actualmente estudio JavaScript.
+
+- &#128170;Fortalezco constantemente mis habilidades con Udemy.
